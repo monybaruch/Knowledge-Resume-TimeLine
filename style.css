@@ -1,6 +1,6 @@
 :root {
-  --primary-color: green;
-  --secondary-color: lime;
+  --primary-color: #333;
+  --secondary-color: GREY;
   --max-width: 1100px;
 }
 
